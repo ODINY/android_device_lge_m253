@@ -1,0 +1,2 @@
+# LG m253 device rc
+import /init.m253_product.rc
