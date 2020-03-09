@@ -1,3 +1,0 @@
-add_lunch_combo lineage_m253-user
-add_lunch_combo lineage_m253-userdebug
-add_lunch_combo lineage_m253-eng
